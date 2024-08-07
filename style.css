@@ -79,7 +79,7 @@ header p {
 }
 .section h2 {
     font-size: 1.5em;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #5a8bf3;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
@@ -91,7 +91,7 @@ header p {
     list-style: none;
 }
 .section ul li {
-    background: #e4e4e4;
+    background: #7094e2;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
